@@ -1,6 +1,6 @@
 {
   "name": "examples",
-  "description": "Node.js/JavaScript code examples.",
+  "description": "Example projects using Template, Assemble, Verb and other node.js applications.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/examples",
   "author": {
@@ -28,7 +28,16 @@
     "test": "mocha -R spec"
   },
   "devDependencies": {
+    "arr": "^0.1.5",
+    "array-slice": "^0.2.2",
+    "async": "^0.9.0",
+    "bluebird": "^2.3.11",
+    "chalk": "^0.5.1",
+    "layouts": "^0.6.0",
+    "load-templates": "^0.4.6",
+    "lodash": "^2.4.1",
     "mocha": "*",
+    "option-cache": "^0.1.4",
     "should": "*"
   },
   "keywords": [
